@@ -1,0 +1,5 @@
+requests
+tqdm
+pymediainfo
+telethon
+aiohttp
